@@ -1,10 +1,8 @@
 package OCP;
 
-/*
 import OCP.before.ContratoClt;
 import OCP.before.Estagio;
 import OCP.before.FolhaDePagamento;
-*/
 
 /*
 import OCP.after.Estagio;
