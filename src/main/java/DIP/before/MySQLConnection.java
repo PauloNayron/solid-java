@@ -1,4 +1,4 @@
-package DIP;
+package DIP.before;
 
 public class MySQLConnection {
 }
